@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27705.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7CD21E55-F57C-4FFF-A9B3-1D7DD8D785D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddSchemaName", "src\AddSchemaName\AddSchemaName.csproj", "{AA99470B-361B-4A5F-A990-4B316A20CD6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CB3B8DC5-D89D-47F3-B8A4-A8E4C5A2AB38}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA99470B-361B-4A5F-A990-4B316A20CD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA99470B-361B-4A5F-A990-4B316A20CD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA99470B-361B-4A5F-A990-4B316A20CD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA99470B-361B-4A5F-A990-4B316A20CD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AA99470B-361B-4A5F-A990-4B316A20CD6E} = {7CD21E55-F57C-4FFF-A9B3-1D7DD8D785D6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE70A0C-58F1-4C28-BB95-983E9DD28F2A}
+	EndGlobalSection
+EndGlobal
